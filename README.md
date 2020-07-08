@@ -1,6 +1,11 @@
 # HiddenAway
 Zelda-like RPG built with Unity
 
+## Controls
+WASD - Movement
+Space - Attack
+E - Interact
+
 ## Installation
 
 - Download the repository as a zip
