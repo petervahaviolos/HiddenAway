@@ -2,9 +2,9 @@
 Zelda-like RPG built with Unity
 
 ## Controls
-WASD - Movement
-Space - Attack
-E - Interact
+- WASD - Movement
+- Space - Attack
+- E - Interact
 
 ## Installation
 
